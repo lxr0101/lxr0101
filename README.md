@@ -15,3 +15,4 @@
 
 - Discord: [lyxra.](https://discord.com/users/1057714166737162361)
 - Instagram: [lyxra0](https://www.instagram.com/lyxra0)
+- LinkedIn: [Mehmet Mete Altınay](https://linkedin.com)

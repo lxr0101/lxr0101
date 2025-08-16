@@ -7,8 +7,7 @@
   <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="Assembly" width="50" height="50"/>
 </p>
 
----
-
 ### 📫Communication
+---
 - Discord: [lyxra.](https://discord.com/users/1057714166737162361)
 - Instagram: [lyxra0](https://www.instagram.com/lyxra0)

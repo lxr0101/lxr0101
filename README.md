@@ -14,5 +14,5 @@
 ### 📫 Communication
 
 - Discord: [lxr.0101](https://discord.com/users/1057714166737162361)
-- Instagram: [lyxra0](https://www.instagram.com/lyxra0)
+- Instagram: [lxr0](https://www.instagram.com/lxr0)
 - LinkedIn: [Mehmet Mete Yalınkaya](https://linkedin.com)

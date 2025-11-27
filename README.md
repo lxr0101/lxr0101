@@ -14,4 +14,4 @@
 ### Communication
 
 - Discord: [lxr.0101](https://discord.com/users/1057714166737162361)
-- Instagram: [lxr0](https://www.instagram.com/mhmbortv0)
+- Instagram: [mhmbortv0](https://www.instagram.com/mhmbortv0)

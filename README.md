@@ -1,6 +1,6 @@
 ---
 
-### - Info
+### Info
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -11,7 +11,7 @@
 
 ---
 
-### - Communication
+### Communication
 
 - Discord: [lxr.0101](https://discord.com/users/1057714166737162361)
 - Instagram: [lxr0](https://www.instagram.com/mhmbortv0)

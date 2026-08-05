@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="50"/>
   <img src="https://devicons.io/devicons/icons/arduino.svg" width="50"/>
-  <img src="https://devicons.io/devicons/icons/html-5.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"/>
   <img src="https://devicons.io/devicons/icons/javascript.svg" width="50"/>
   <img src="https://devicons.io/devicons/icons/css.svg" width="50"/>
   <img src="https://devicons.io/devicons/icons/mysql.svg" width="50"/>

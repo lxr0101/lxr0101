@@ -1,5 +1,5 @@
 ### Me
-- hi, i'm 17 y/o reverse engineer and software developer. that's all you need to know for now.
+- Hi, I'm Mete. I'm a 17 y/o software developer and reverse engineer. That's all you need to know for now.
 
 ### Languages
 <p align="left">

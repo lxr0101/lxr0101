@@ -1,5 +1,5 @@
 ### Me
-- Hi, I'm Mete. I'm a 17 y/o Software Developer and Reverse Engineer.
+- Hi, I'm Mete, I'm a 17 y/o Software Developer and Reverse Engineer.
 
 ### Languages
 <p align="left">
